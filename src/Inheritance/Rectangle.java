@@ -2,6 +2,7 @@ package Inheritance;
 
 public class Rectangle extends Shape{
 void drow() {
+	
 	System.out.println("This is rectangle");
 	super.drow();
 }
